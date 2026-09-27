@@ -1,0 +1,9 @@
+course btn{background-color: white;
+  color:blue;padding: 12px  25px;
+  border:none;border-radius: 8px;
+  font size:18px;font-weight: bold;
+  cursor: pointer;
+  
+}
+body{background-color: darkblue;
+  color:white;font-family: Arial,san-serif;
